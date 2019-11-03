@@ -21,7 +21,7 @@
 }
 .sidebar > h1 .app-name-link:before {
   content: '';
-  background: url('/static/image/logo.jpg') no-repeat;
+  background: url('/BaekHospital/static/image/logo.jpg') no-repeat;
   width: 23px;
   height: 23px;
   margin: 8px 8px 0 0;
