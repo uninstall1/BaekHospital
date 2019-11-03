@@ -1,0 +1,18 @@
+@charset 'utf-8';
+
+@font-face {
+  font-family: 'NotoSansKR';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('NotoSansKR-Regular.woff2') format('woff2'),
+       url('NotoSansKR-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'NotoSansKR';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('NotoSansKR-Bold.woff2') format('woff2'),
+       url('NotoSansKR-Bold.woff') format('woff');
+}

@@ -1,0 +1,5 @@
+- [백병원 튜토리얼](/docs/home.md)
+- [디스코드 봇](/docs/bot.md)
+  - [샤를마뉴](/docs/bot/charlemagne.md)
+  - [샤를마뉴 - 명령어](/docs/bot/charlemagne/cmd.md)
+  - [샤를마뉴 - LFG](docs/bot/charlemagne/LFG.md)

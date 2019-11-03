@@ -1,0 +1,39 @@
+@charset 'utf-8';
+
+:root {
+  --base-font-family: 'NotoSansKR', sans-serif;
+  --base-font-size: 1em;
+  --code-font-family: 'D2Coding', monospace;
+  --code-tab-size: 2;
+  --content-max-width: 80em;
+  --link-text-decoration: none;
+  --link-color: var(--theme-color)
+}
+/* For more information: https://jhildenbiddle.github.io/docsify-themeable/#/customization */
+
+.markdown-section img {
+  padding: 5px 0 5px 0;
+  display: block;
+  margin: 0 auto;
+}
+.sidebar > h1 .app-name-link{
+  display: inline-block;
+}
+.sidebar > h1 .app-name-link:before {
+  content: '';
+  background: url('/static/image/logo.jpg') no-repeat;
+  width: 23px;
+  height: 23px;
+  margin: 8px 8px 0 0;
+  float: left;
+}
+.docsify-pagination-container {
+  margin: 3em 0 1em;
+}
+a[href*="//"]:not([href*="tetratheta.github.io/BaekHospital"]):after {
+  font-family: 'fontello';
+  content: '\f08e';
+  color: var(--theme-color);
+  padding-left: 3px;
+  padding-right: 3px;
+}

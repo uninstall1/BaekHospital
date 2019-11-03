@@ -1,0 +1,9 @@
+@charset 'utf-8';
+
+@font-face {
+  font-family: 'fontello';
+  font-weight: normal;
+  font-style: normal;
+  src: url('fontello.woff2') format('woff2'),
+       url('fontello.woff') format('woff');
+}
