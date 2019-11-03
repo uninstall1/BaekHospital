@@ -5,6 +5,7 @@
   --base-font-size: 1em;
   --code-font-family: 'D2Coding', monospace;
   --code-tab-size: 2;
+  --code-block-padding: 1em 1em 1em 1em;
   --content-max-width: 80em;
   --link-text-decoration: none;
   --link-color: var(--theme-color)
