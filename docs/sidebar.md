@@ -3,3 +3,5 @@
   - [샤를마뉴](/docs/bot/charlemagne.md)
   - [샤를마뉴 - 명령어](/docs/bot/charlemagne/cmd.md)
   - [샤를마뉴 - LFG](docs/bot/charlemagne/LFG.md)
+- [유용한 정보](docs/useful-tips.md)
+  - [강력한 엔그램 얻는 법](/docs/useful-tips/how-to-get-powerful-engram.md)
